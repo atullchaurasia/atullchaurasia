@@ -1,4 +1,4 @@
 Hello Everyone 🌟
 
-🖥️ Python | Machine Learning | Deep Learning | Data Science
-Maths | Statistics
+- 🖥️ Python | Machine Learning | Deep Learning | Data Science
+- Maths | Statistics
